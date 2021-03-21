@@ -15,7 +15,7 @@
     "type-is": "~1.6.18"
   },
   "peerDependencies": {
-    "multiparty": "~4.2.2",
+    "multiparty": "~4.2.2"
   },
   "engines": {
     "node": ">=0.10.0"
